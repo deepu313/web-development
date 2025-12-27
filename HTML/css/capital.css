@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: fantasy;
+
+    
+
+    }
+
+
+#outer {
+    font-size: 25px;
+
+}
+#inner{
+    font-size: 10px;
+}

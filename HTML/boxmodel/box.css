@@ -1,0 +1,26 @@
+div{
+    width: 150px;
+    height: 50px;
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    margin-top: 30px;
+}
+div1{
+    width: 49px;
+    height: 200px;
+    background-color: bisque;
+     border-style: dashed;
+    border-width: 15px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    margin-top: 30px;
+}

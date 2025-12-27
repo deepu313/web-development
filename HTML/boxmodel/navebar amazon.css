@@ -1,0 +1,36 @@
+#id1 {
+    height: 60px;
+    background-color: black;
+    border: 50px;
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#span{
+    color: orange;
+    margin-right: 200px;
+}
+
+#account{
+    color: white;
+    
+}
+#cart{
+    color: white;
+    margin-left: 200px;
+}
+#contact{
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#input{
+    
+}
+button{
+    color: white;
+    background-color: orange;
+}
+
+
