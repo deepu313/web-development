@@ -1,0 +1,30 @@
+
+#container{ width: 500px;
+    height: 500px;
+    display: flex;
+   background-color: yellow;
+   flex-direction: column;
+   justify-content: center;
+   align-items: row;
+}
+#id1{
+    width: 100px;
+    height: 100px;
+   
+   background-color: red;
+    
+}
+#id2{
+    width: 100px;
+    height: 100px;
+   
+   background-color: green;
+    
+}
+#id3{
+    width: 100px;
+    height: 100px;
+   
+   background-color: beige;
+    
+}
